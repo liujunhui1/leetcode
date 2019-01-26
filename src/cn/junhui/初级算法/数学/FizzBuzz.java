@@ -1,4 +1,4 @@
-package 初级算法.数学;
+package cn.junhui.初级算法.数学;
 
 import java.util.ArrayList;
 import java.util.List;

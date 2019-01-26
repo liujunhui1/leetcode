@@ -1,4 +1,4 @@
-package 初级算法.动态规划;
+package cn.junhui.初级算法.动态规划;
 
 /**
  * 军辉

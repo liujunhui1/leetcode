@@ -1,4 +1,4 @@
-package 初级算法;
+package cn.junhui.初级算法;
 
 /**
  * 军辉

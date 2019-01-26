@@ -1,4 +1,4 @@
-package 初级算法.链表;
+package cn.junhui.初级算法.链表;
 
 import java.util.List;
 

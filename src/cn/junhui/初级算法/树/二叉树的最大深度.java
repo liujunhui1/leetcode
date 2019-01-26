@@ -1,4 +1,4 @@
-package 初级算法.树;
+package cn.junhui.初级算法.树;
 
 import java.util.LinkedList;
 import java.util.Queue;

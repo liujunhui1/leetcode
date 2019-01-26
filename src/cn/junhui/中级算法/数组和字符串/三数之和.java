@@ -1,4 +1,4 @@
-package 中级算法.数组和字符串;
+package cn.junhui.中级算法.数组和字符串;
 
 import java.util.List;
 

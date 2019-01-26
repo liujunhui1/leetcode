@@ -1,4 +1,4 @@
-package 初级算法.设计问题;
+package cn.junhui.初级算法.设计问题;
 
 import com.sun.org.apache.bcel.internal.generic.SWAP;
 import sun.security.util.AuthResources_it;

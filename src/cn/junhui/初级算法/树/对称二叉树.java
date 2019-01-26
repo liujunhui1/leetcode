@@ -1,4 +1,4 @@
-package 初级算法.树;
+package cn.junhui.初级算法.树;
 
 import sun.reflect.generics.tree.Tree;
 

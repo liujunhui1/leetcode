@@ -1,4 +1,4 @@
-package 初级算法.排序和搜索;
+package cn.junhui.初级算法.排序和搜索;
 
 /**
  * 军辉

@@ -1,6 +1,6 @@
-package 初级算法.字符串;
+package cn.junhui.初级算法.字符串;
 
-import com.company.Main;
+
 
 /**
  * 军辉
